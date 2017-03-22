@@ -1,9 +1,9 @@
 # 三角形的实现方式
 用border和transparent来实现
 
-####css代码例如：
+#### css代码例如：
 ```
-box{
+.box{
   width:0;
   height:0;
   margin:30px;
