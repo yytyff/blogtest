@@ -11,4 +11,7 @@
   border-right:50px solid transparent;
   border-bottom:50px solid transparent;
   border-left:50px solid transparent;
-  ```
+  ```
+  
+  预览效果如下：
+  https://yytyff.github.io/blogtest/index.html
