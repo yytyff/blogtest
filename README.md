@@ -2,7 +2,7 @@
 用border和transparent来实现
 
 预览效果如下：
-https://yytyff.github.io/blogtest/index.html
+### [三角形](https://yytyff.github.io/blogtest/index.html)
 
 #### css代码例如：
 ```
